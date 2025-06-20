@@ -7,8 +7,8 @@ from datetime import datetime
 
 # Configure database connection
 db_config = {
-    'user': 'root',
-    'password': 'Neminath@22',  # Use the new password you set
+    'user': 'Enter your database username here',  # Use your MySQL username
+    'password': 'Enter your password here',  # Use the password you set
     'host': '127.0.0.1',
     'database': 'integrity_checker'
 }
